@@ -3,8 +3,10 @@ Implementation of VAE in Tensorflow
 
 Here are a few samples, the first row has the original MNIST images, the second row contains the reconstruction of those images
 
+Sample 1:
 <img src="reconstructed1.PNG">
 
+Sample 2:
 <img src="reconstructed2.PNG">
 
 Here are new examples generated using the decoder of the network, 16 generated images in each row:
